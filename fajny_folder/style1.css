@@ -24,3 +24,7 @@ header{
 #pnorm{
     text-indent: 20px;
 }
+img{
+    height: auto;
+    width: 49%;
+}
